@@ -1,0 +1,1 @@
+<h1>Hello from Single Action Controller.</h1>
